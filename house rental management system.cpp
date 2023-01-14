@@ -1,3 +1,5 @@
+/*        @author Elias Asefa Abdena     */
+
 #include<iostream>
 #include<fstream>
 #include<string>
