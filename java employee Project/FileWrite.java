@@ -8,7 +8,7 @@ import java.io.FileWriter;
 
 /**
  *
- * @author Lalo
+ * @author eliasasefa 
  */
  
 public class FileWrite {
